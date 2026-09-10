@@ -4,7 +4,7 @@
 
 - Associate, Technology
 
-- .NET Developer
+- Full Stack Developer
 
 - Working with ASP.NET Core, C#, SQL Server and React
 
